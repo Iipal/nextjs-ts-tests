@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello, World!",
+            "body": "lorem ipsum"
+        },
+        {
+            "id": 2,
+            "title": "Post",
+            "body": "pidor"
+        },
+        {
+            "id": 3,
+            "title": "Health",
+            "body": "your anus"
+        }
+    ],
+    "about": {
+        "title": "Title about us"
+    }
+}
